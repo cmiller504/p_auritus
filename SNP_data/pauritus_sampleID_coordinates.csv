@@ -1,0 +1,140 @@
+Sample_ID,Site,LAT,LONG
+sample_CM1,Campo Ma'an,2.4,10.22
+sample_CM11,Campo Ma'an,2.41,10.21
+sample_CM12,Campo Ma'an,2.51,10.21
+sample_CM13,Campo Ma'an,2.51,10.21
+sample_CM16,Campo Ma'an,2.51,10.21
+sample_CM20,Campo Ma'an,2.51,10.21
+sample_CM22,Campo Ma'an,2.51,10.21
+sample_CM26,Campo Ma'an,2.51,10.21
+sample_CM28,Campo Ma'an,2.51,10.21
+sample_CM3,Campo Ma'an,2.4,10.23
+sample_CM5,Campo Ma'an,2.38,10.24
+sample_CM6,Campo Ma'an,2.51,10.21
+sample_CM7,Campo Ma'an,2.51,10.21
+sample_EF1,Ebo Forest,4.6,10.25
+sample_EF10,Ebo Forest,4.57,10.25
+sample_EF11,Ebo Forest,4.57,10.25
+sample_EF12,Ebo Forest,4.57,10.25
+sample_EF13,Ebo Forest,4.57,10.25
+sample_EF14,Ebo Forest,4.57,10.25
+sample_EF15,Ebo Forest,4.56,10.25
+sample_EF16,Ebo Forest,4.56,10.24
+sample_EF17,Ebo Forest,4.57,10.24
+sample_EF18,Ebo Forest,4.56,10.25
+sample_EF19,Ebo Forest,4.57,10.25
+sample_EF2,Ebo Forest,4.58,10.48
+sample_EF20,Ebo Forest,4.57,10.24
+sample_EF21,Ebo Forest,4.58,10.25
+sample_EF23,Ebo Forest,4.57,10.24
+sample_EF24,Ebo Forest,4.57,10.24
+sample_EF25,Ebo Forest,4.57,10.24
+sample_EF3,Ebo Forest,4.6,10.25
+sample_EF6,Ebo Forest,4.56,10.49
+sample_EF7,Ebo Forest,4.56,10.24
+sample_EF8,Ebo Forest,4.57,10.24
+sample_EF9,Ebo Forest,4.57,10.24
+sample_GC1,Gamba,-3.09,10.5
+sample_GC10,Gamba,-3.09,10.48
+sample_GC11,Gamba,-3.09,10.47
+sample_GC12,Gamba,-3.09,10.47
+sample_GC13,Gamba,-3.09,10.47
+sample_GC14,Gamba,-3.09,10.5
+sample_GC15,Gamba,-3.09,10.5
+sample_GC16,Gamba,-3.09,10.48
+sample_GC18,Gamba,-3.09,10.47
+sample_GC19,Gamba,-3.09,10.5
+sample_GC2,Gamba,-3.09,10.5
+sample_GC20,Gamba,-3.09,10.5
+sample_GC21,Gamba,-3.09,10.5
+sample_GC22,Gamba,-3.09,10.47
+sample_GC23,Gamba,-3.1,10.48
+sample_GC25,Gamba,-3.09,10.48
+sample_GC4,Gamba,-3.09,10.5
+sample_GC5,Gamba,-3.09,10.5
+sample_GC9,Gamba,-3.09,10.47
+sample_KS1,Kessala,-1.85,13.85
+sample_KS10,Kessala,-1.85,13.85
+sample_KS11,Kessala,-1.85,13.85
+sample_KS12,Kessala,-1.85,13.85
+sample_KS13,Kessala,-1.85,13.85
+sample_KS14,Kessala,-1.85,13.85
+sample_KS15,Kessala,-1.85,13.85
+sample_KS16,Kessala,-2,13.97
+sample_KS17,Kessala,-1.99,13.96
+sample_KS18,Kessala,-2.01,13.97
+sample_KS19,Kessala,-2.02,13.96
+sample_KS2,Kessala,-1.85,13.85
+sample_KS20,Kessala,-2.01,13.94
+sample_KS21,Kessala,-2.01,13.94
+sample_KS23,Kessala,-2.03,13.96
+sample_KS24,Kessala,-2.03,13.95
+sample_KS25,Kessala,-2.04,13.94
+sample_KS4,Kessala,-1.85,13.85
+sample_KS5,Kessala,-1.85,13.85
+sample_KS6,Kessala,-1.85,13.85
+sample_KS8,Kessala,-1.85,13.85
+sample_LP1,Lope,-0.57,11.9
+sample_LP10,Lope,-0.61,11.9
+sample_LP11,Lope,-0.6,11.9
+sample_LP12,Lope,-0.59,11.9
+sample_LP14,Lope,-0.57,11.9
+sample_LP15,Lope,-0.56,11.89
+sample_LP16,Lope,-0.6,11.9
+sample_LP17,Lope,-0.59,11.91
+sample_LP2,Lope,-0.57,11.9
+sample_LP3,Lope,-0.57,11.9
+sample_LP4,Lope,-0.57,11.9
+sample_LP5,Lope,-0.57,11.9
+sample_LP7,Lope,-0.6,11.9
+sample_LP8,Lope,-0.55,11.86
+sample_LP9,Lope,-0.62,11.91
+sample_MC1,Monts de Cristal,0.87,10.7
+sample_MC10,Monts de Cristal,1.08,10.7
+sample_MC11,Monts de Cristal,1.05,10.68
+sample_MC12,Monts de Cristal,1.05,10.68
+sample_MC13,Monts de Cristal,1.04,10.69
+sample_MC14,Monts de Cristal,1.04,10.69
+sample_MC15,Monts de Cristal,1.04,10.69
+sample_MC17,Monts de Cristal,1.03,10.71
+sample_MC18,Monts de Cristal,1.08,10.69
+sample_MC2,Monts de Cristal,0.87,10.71
+sample_MC20,Monts de Cristal,1.08,10.69
+sample_MC21,Monts de Cristal,1.09,10.7
+sample_MC22,Monts de Cristal,1.07,10.67
+sample_MC23,Monts de Cristal,1.09,10.66
+sample_MC3,Monts de Cristal,1.08,10.68
+sample_MC4,Monts de Cristal,1.07,10.67
+sample_MC5,Monts de Cristal,1.07,10.67
+sample_MC6,Monts de Cristal,1.08,10.68
+sample_MC7,Monts de Cristal,1.08,10.68
+sample_MC8,Monts de Cristal,1.08,10.7
+sample_MC9,Monts de Cristal,1.09,10.7
+sample_MK1,Minkebe,1.23,12.95
+sample_MK10,Minkebe,1.21,12.94
+sample_MK11,Minkebe,1.23,12.95
+sample_MK12,Minkebe,1.22,12.94
+sample_MK13,Minkebe,1.22,12.94
+sample_MK14,Minkebe,1.21,12.94
+sample_MK15,Minkebe,1.21,12.94
+sample_MK16,Minkebe,1.2,12.94
+sample_MK17,Minkebe,1.18,12.94
+sample_MK18,Minkebe,1.2,12.94
+sample_MK19,Minkebe,1.23,12.94
+sample_MK2,Minkebe,1.24,12.92
+sample_MK20,Minkebe,1.22,12.95
+sample_MK21,Minkebe,1.21,12.94
+sample_MK22,Minkebe,1.2,12.93
+sample_MK25,Minkebe,1.23,12.93
+sample_MK3,Minkebe,1.21,12.95
+sample_MK4,Minkebe,1.21,12.94
+sample_MK5,Minkebe,1.21,12.94
+sample_MK6,Minkebe,1.21,12.95
+sample_MK7,Minkebe,1.21,12.94
+sample_MK8,Minkebe,1.22,12.94
+sample_MK9,Minkebe,1.21,12.94
+sample_ND4,Ndikinimeki,4.84,10.87
+sample_ND6,Ndikinimeki,4.84,10.87
+sample_ND8,Ndikinimeki,4.84,10.87
+sample_TM2,Takamanda,6.13,9.21
+sample_TM5,Takamanda,6.13,9.21
